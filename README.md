@@ -4,12 +4,12 @@
 
 📸Screenshots
 
-![project 15 screenshot](./Screenshots/Screenshot(504).png)
-![project 15 screenshot](./Screenshots/Screenshot(505).png)
-![project 15 screenshot](./Screenshots/Screenshot(506).png)
-![project 15 screenshot](./Screenshots/Screenshot(507).png)
-![project 15 screenshot](./Screenshots/Screenshot(508).png)
-![project 15 screenshot](./Screenshots/Screenshot(509).png)
+![](./Screenshots/Screenshot (504).png)
+![](./Screenshots/Screenshot(505).png)
+![](./Screenshots/Screenshot(506).png)
+![](./Screenshots/Screenshot(507).png)
+![](./Screenshots/Screenshot(508).png)
+![](./Screenshots/Screenshot(509).png)
 
 ## 📌 What I learned from this Project? 📝 
 - The project is made entirely with html and bootstrap css, so I learned about bootstrap in-depth.
