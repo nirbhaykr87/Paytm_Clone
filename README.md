@@ -1,5 +1,5 @@
 # Paytm_Clone
-## Paytm clone 🚀 Website's [Live Link](https://nirbhaykr.in/Paytm%20Clone/)🔗
+## Paytm clone 🚀 Website's [Live Link](https://paytm-clonebynk.netlify.app/)🔗
 >Nirbhay Kumar ✨
 
 📸Screenshots
